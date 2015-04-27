@@ -1,0 +1,26 @@
+Start: Wed, 22 April 2015 15:15:00
+End: Wed, 22 April 2015 15:40:00
+Assign 3: Completed variable.js and finished all of function.js except parseGit.
+.5 Hours
+
+
+Start: Fri, 24 April 2015 14:47:00
+End: Fri, 24 April 2015 17:02:00
+Assign 3: Finished all the scripts, then moved on to testing and debugging.  Finished variable.js.
+2.25 hours
+
+Start: Sat, 25 April 2015 10:00:00
+End: Sat, 25 April 2015 11:40:00
+Assign 3: Finished testing and debugging all scripts.
+1.75 hours
+
+Start: Sat, 25 April 2015 17:30:00
+End: Sat, 25 April 2015 18:30:00
+Assign 3.2: Reviewed lectures for a second time.  Got HTML shell for site
+1 hour
+
+Start: Sat, 25 April 2015 10:27:00
+End: Sat, 25 April 2015 21:30:00
+Assign 3.2: Programmed the JavaScript code.  Finished reviewing lectures for second time much of the lectures and reviewed the source material for JavaScript coding.  Much difficulty, piazza posts were very helpful along with the
+lecture code.  Assignment felt beyond what we had really had a chance to learn, much difficulty.  Felt that most of my work was appending the lecture code to fit the requirements of the assignment.
+11 hours
